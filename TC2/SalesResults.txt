@@ -1,0 +1,90 @@
+Sales Results
+============================================================
+Sale #1
+------------------------------------------------------------
+  • Rustic breakfast — qty: 200, unit: $21.32, subtotal: $4,264.00
+  • Sandwich with salad — qty: 23, unit: $22.48, subtotal: $517.04
+  • Raw legums — qty: 11, unit: $17.11, subtotal: $188.21
+  Total: $4,969.25
+
+Sale #2
+------------------------------------------------------------
+  • Fresh stawberry — qty: 221, unit: $28.59, subtotal: $6,318.39
+  • Raw legums — qty: 2, unit: $17.11, subtotal: $34.22
+  Total: $6,352.61
+
+Sale #3
+------------------------------------------------------------
+  • Green smoothie — qty: 400, unit: $17.68, subtotal: $7,072.00
+  • Cuban sandwiche — qty: 2, unit: $18.50, subtotal: $37.00
+  • Hazelnut in black ceramic bowl — qty: 2, unit: $27.35, subtotal: $54.70
+  Total: $7,163.70
+
+Sale #4
+------------------------------------------------------------
+  • Tomatoes — qty: 1, unit: $26.03, subtotal: $26.03
+  • Plums — qty: 250, unit: $19.18, subtotal: $4,795.00
+  • Fresh blueberries — qty: 334, unit: $21.01, subtotal: $7,017.34
+  Total: $11,838.37
+
+Sale #5
+------------------------------------------------------------
+  • Green smoothie — qty: 300, unit: $17.68, subtotal: $5,304.00
+  • Corn — qty: 68, unit: $13.55, subtotal: $921.40
+  • French fries — qty: 33, unit: $18.32, subtotal: $604.56
+  Total: $6,829.96
+
+Sale #6
+------------------------------------------------------------
+  • Ground beef meat burger — qty: 78, unit: $11.73, subtotal: $914.94
+  • Hazelnut in black ceramic bowl — qty: 2, unit: $27.35, subtotal: $54.70
+  • Sweet fresh stawberry — qty: 87, unit: $29.45, subtotal: $2,562.15
+  • Homemade bread — qty: 1, unit: $17.48, subtotal: $17.48
+  • Smoothie with chia seeds — qty: 46, unit: $25.26, subtotal: $1,161.96
+  • Corn — qty: 1, unit: $13.55, subtotal: $13.55
+  • Plums — qty: 2, unit: $19.18, subtotal: $38.36
+  • Fresh blueberries — qty: 46, unit: $21.01, subtotal: $966.46
+  Total: $5,729.60
+
+Sale #7
+------------------------------------------------------------
+  • Green smoothie — qty: 1, unit: $17.68, subtotal: $17.68
+  • Corn — qty: 2, unit: $13.55, subtotal: $27.10
+  • French fries — qty: 4, unit: $18.32, subtotal: $73.28
+  • Ground beef meat burger — qty: 64, unit: $11.73, subtotal: $750.72
+  • Hazelnut in black ceramic bowl — qty: 2, unit: $27.35, subtotal: $54.70
+  Total: $923.48
+
+Sale #8
+------------------------------------------------------------
+  • Sweet fresh stawberry — qty: 3, unit: $29.45, subtotal: $88.35
+  • Homemade bread — qty: 456, unit: $17.48, subtotal: $7,970.88
+  • Smoothie with chia seeds — qty: 2, unit: $25.26, subtotal: $50.52
+  • Corn — qty: 5, unit: $13.55, subtotal: $67.75
+  • Plums — qty: 645, unit: $19.18, subtotal: $12,371.10
+  • Green smoothie — qty: 2, unit: $17.68, subtotal: $35.36
+  Total: $20,583.96
+
+Sale #9
+------------------------------------------------------------
+  • Corn — qty: 465, unit: $13.55, subtotal: $6,300.75
+  • French fries — qty: 20, unit: $18.32, subtotal: $366.40
+  • Ground beef meat burger — qty: 4, unit: $11.73, subtotal: $46.92
+  • Hazelnut in black ceramic bowl — qty: 1, unit: $27.35, subtotal: $27.35
+  • Sweet fresh stawberry — qty: 131, unit: $29.45, subtotal: $3,857.95
+  • Homemade bread — qty: 9, unit: $17.48, subtotal: $157.32
+  Total: $10,756.69
+
+Sale #10
+------------------------------------------------------------
+  • Smoothie with chia seeds — qty: 13, unit: $25.26, subtotal: $328.38
+  • Corn — qty: 678, unit: $13.55, subtotal: $9,186.90
+  • Plums — qty: 334, unit: $19.18, subtotal: $6,406.12
+  • Fresh blueberries — qty: 3445, unit: $21.01, subtotal: $72,379.45
+  • Corn — qty: 445, unit: $13.55, subtotal: $6,029.75
+  Total: $94,330.60
+
+============================================================
+Grand Total: $169,478.22
+Sales Count: 10
+Elapsed Time: 0.003 seconds
